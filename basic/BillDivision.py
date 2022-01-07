@@ -12,6 +12,7 @@ def bonAppetit(bill, k, b):
     #print(sum)
     if amount==b:
         print("Bon Appetit")
+        
     else:
         print(b-amount)
 
